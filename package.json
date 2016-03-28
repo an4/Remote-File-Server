@@ -1,0 +1,10 @@
+{
+  "name": "FileServer",
+  "version": "1.0.0",
+  "description": "Does something sometimes.",
+  "private": true,
+  "author": "Ana Dumitras",
+  "dependencies": {
+    "express": "~4.13.4"
+  }
+}
